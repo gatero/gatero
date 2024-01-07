@@ -14,25 +14,42 @@ Passionate and versatile Full Stack JavaScript developer with experience in the 
 *   🤝  I'm open to collaborating on interesting projects<a href="https://www.github.com/gatero" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/gatero?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
-### Skills 
+
+### Skills
+
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+      width="36"
+      height="36"
+      alt="TypeScript" /></a
+  ><a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
-    >
-    <img
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+      width="36"
+      height="36"
+      alt="JavaScript" /></a
+  ><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"
+      width="36"
+      height="36"
+      alt="Go" /></a
+  ><a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+      width="36"
+      height="36"
+      alt="Git" /></a
+  ><a
+    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    target="_blank"
+    rel="noreferrer"
+    ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
       width="36"
       height="36"
@@ -166,11 +183,9 @@ Passionate and versatile Full Stack JavaScript developer with experience in the 
   /></a>
 </p>
 
-                    
 ### Socials
-                  
-                  
-                <p align="left">
+
+<p align="left">
   <a href="https://www.github.com/gatero" target="_blank" rel="noreferrer">
     <picture>
       <source
@@ -194,15 +209,23 @@ Passionate and versatile Full Stack JavaScript developer with experience in the 
   </a>
 </p>
 
-### Badges<b>My GitHub Stats
-</b>
-  <a href="http://www.github.com/gatero">
-    <img src="https://github-readme-stats.vercel.app/api?username=gatero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="gatero's GitHub stats" />
-</a>
-<a href="http://www.github.com/gatero">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gatero&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-<a href="https://github.com/gatero" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/>
-</a>
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/gatero"
+  ><img
+    src="https://github-readme-stats.vercel.app/api?username=gatero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true"
+    alt="gatero's GitHub stats"
+/></a>
+
+<a href="http://www.github.com/gatero"
+  ><img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gatero&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+/></a>
+
+<a href="https://github.com/gatero" align="left"
+  ><img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatero&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+    alt="Top Languages"
+/></a>
