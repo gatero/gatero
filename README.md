@@ -11,9 +11,11 @@ Passionate and versatile Full Stack JavaScript developer with experience in the 
 *   ✉️  You can contact me at [hola@daniel-ortega.mx](mailto:hola@daniel-ortega.mx)
 *   🚀  I'm currently working on [leadsales.io](http://leadsales.io)
 *   🧠  I'm learning next.js and fiber
-*   🤝  I'm open to collaborating on interesting projects<a href="https://www.github.com/gatero" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/gatero?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+*   🤝  I'm open to collaborating on interesting projects
 
+<a href="https://www.github.com/gatero" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/gatero?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+</a>
 
 ### Skills
 
