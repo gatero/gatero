@@ -215,13 +215,6 @@ Passionate and versatile Full Stack JavaScript developer with experience in the 
 
 <a href="http://www.github.com/gatero">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gatero&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true"
-    alt="gatero's GitHub stats"
-  />
-</a>
-
-<a href="http://www.github.com/gatero">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=gatero&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
   />
 </a>
