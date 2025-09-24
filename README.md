@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-Passionate and versatile Full Stack JavaScript developer with experience in the JavaScript ecosystem. Expertise in agile development of web applications, from implementing the frontend using frameworks like React or Angular, to efficiently managing the backend with Node.js. Skilled in creating databases with MongoDB or SQL, and committed to optimizing performance and user experience. Proficient in technologies such as HTML5, CSS3, with a proven ability to work in multidisciplinary teams, delivering innovative and scalable solutions in challenging projects.
+Passionate and versatile Full Stack Software Engineer with over a decade of experience in the JavaScript ecosystem and beyond. Skilled in building scalable web applications, from crafting dynamic frontends with React, to managing robust backends with Node.js and Golang. Proficient in containerization and microservices using Docker, and experienced working in Linux-based environments. Strong background with both SQL and NoSQL databases, always focused on performance optimization and delivering exceptional user experiences. Adept at collaborating within multidisciplinary teams to deliver innovative, reliable, and scalable solutions in challenging projects.
 
 *   🌍  I'm based in México
 *   🖥️  See my portfolio at [daniel-ortega.mx](http://daniel-ortega.mx)
