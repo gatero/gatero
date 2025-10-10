@@ -1,4 +1,4 @@
-### 🧑‍💻 IA First - Staff Software Engineer
+### IA - Staff Software Engineer
 
 Soy un desarrollador con más de **13 años de experiencia** construyendo productos digitales escalables y centrados en el usuario.  
 Mi enfoque combina **arquitecturas modernas**, **automatización** y **buenas prácticas** para crear soluciones robustas tanto en backend como en frontend.
